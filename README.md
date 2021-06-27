@@ -1,28 +1,46 @@
-[//]: <Título com o Nome>
+<!-- ****************************************** Bio ******************************************** -->
 <h2> Rafael Angelo Pinheiro do Vale </h2>
+<h4> Civil Engenier and Work Security 👷🏻👷🏻</h4>
+<h4> #NeverStopLearning</h4>
 
-[//]: <Profissão>
+<!-- ****************************************** Stats ******************************************** -->
 
-<h4> Civil Engenier and Work Security 👷🏻👷🏻</h4><br />
+<left>
+  <a href="#">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafaelangelopv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
-[//]: <Dashboard de status no GitHub>
+<!-- ****************************************** Most languages ******************************************** -->
+
+  </tr>
+    <td><p align="left"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelangelopv&layout=compact&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a></p>
+    </td>
+  <tr>
+</left>
+
+<br>
+
+<!-- ****************************************** Tools & Languages ******************************************** -->
 
 <div>
-  <a href="https://github.com/rafaelangelopv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafaelangelopv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img src="./assets/c++.png" width="30px">&ensp;&ensp;
+<img src="./assets/python.svg" width="30px">&ensp;&ensp;
+<img src="./assets/java.svg" width="30px">&ensp;&ensp;
+<img src="./assets/html5.svg" width="30px">&ensp;&ensp;
+<img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
+<img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
+<br>
+<img src="./assets/windows.svg" width="30px">&ensp;&ensp;
+<img src="./assets/notion.png" width="30px">&ensp;&ensp;
+<img src="./assets/discord.svg" width="30px">&ensp;&ensp;
+<img src="./assets/vscode.svg" width="30px">&ensp;&ensp;
+<img src="./assets/git.svg" width="30px">&ensp;&ensp;
+<img src="./assets/github.svg" width="30px">&ensp;&ensp;
+
 </div>
 
-[//]: <Linguagens e ferramentas mais utilizadas>
+<br>
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafael-GitHub" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"> 
-  <img align="center" alt="Rafael-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafael-R" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-  <img align="center" alt="Rafael-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
-
-[//]: <Contatos>
+<!-- ****************************************** Contacts ******************************************** -->
 
 <div>
   <a href = "mailto:rafaelangelopv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
