@@ -2,7 +2,7 @@
 <h2> Rafael Angelo Pinheiro do Vale </h2>
 <h4> Civil Engenier and Work Security 👷🏻👷🏻</h4>
 <h4> #NeverStopLearning</h4>
-
+<br>
 <!-- ****************************************** Stats ******************************************** -->
 
 <left>
