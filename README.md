@@ -3,21 +3,6 @@
 <h4> Civil Engenier and Work Security 👷🏻👷🏻</h4>
 <h4> #NeverStopLearning</h4>
 <br>
-<!-- ****************************************** Stats ******************************************** -->
-
-<left>
-  <a href="https://github-readme-stats.vercel.app/api/?username=rafaelangelopv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafaelangelopv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
-<!-- ****************************************** Most languages ******************************************** -->
-
-  </tr>
-    <td><p align="left"><a href="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelangelopv"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelangelopv&layout=compact&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a></p>
-    </td>
-  <tr>
-</left>
-
-<br>
 
 <!-- ****************************************** Tools & Languages ******************************************** -->
 
