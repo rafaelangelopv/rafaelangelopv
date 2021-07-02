@@ -1,8 +1,20 @@
 <!-- ****************************************** Bio ******************************************** -->
+<center>
 <h2> Rafael Angelo Pinheiro do Vale </h2>
 <h4> Civil Engenier and Work Security 👷🏻👷🏻</h4>
 <h4> #NeverStopLearning</h4>
+</center>
 <br>
+
+<!-- ****************************************** Stats ******************************************** -->
+
+<center>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=rafaelangelopv&show_icons=true&theme=dark" alt="Rafael Angelo's github stats" /></a></p>
+      </td>
+    </tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelangelopv&layout=compact&show_icons=true&theme=dark" /></a></p>
+      </td>
 
 <!-- ****************************************** Tools & Languages ******************************************** -->
 
@@ -31,3 +43,5 @@
   <a href = "mailto:rafaelangelopv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelangelopv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ 
+</center>
