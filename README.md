@@ -21,10 +21,11 @@
 <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
 <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
 <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
+<img src="./assets/kotlin.svg" width="30px">&ensp;&ensp;
 <br>
 <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
+<img src="./assets/linux.svg" width="30px">&ensp;&ensp;
 <img src="./assets/notion.png" width="30px">&ensp;&ensp;
-<img src="./assets/discord.svg" width="30px">&ensp;&ensp;
 <img src="./assets/vscode.svg" width="30px">&ensp;&ensp;
 <img src="./assets/git.svg" width="30px">&ensp;&ensp;
 <img src="./assets/github.svg" width="30px">&ensp;&ensp;
