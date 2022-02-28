@@ -15,7 +15,7 @@
  	<a href="https://www.twitch.tv/engplayer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF??style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!-- Linktree -->
   <a href="https://linktr.ee/rafaelangelopv"><img src="
-  https://img.shields.io/badge/-LinkTree-%39E09B??style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+ https://img.shields.io/badge/linktree-39E09B??style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 </div>
 <h3>#NeverStopLearning
 #LifeLongLearning #EngPlayerOnTwitch</h3>
