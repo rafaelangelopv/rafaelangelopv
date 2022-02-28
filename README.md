@@ -1,9 +1,6 @@
 <!-- ****************************************** Bio ******************************************** -->
 <h2> Rafael Angelo Pinheiro do Vale </h2>
 <h4> Engineer [Civil & Work Security]</h4>
-<h4> #NeverStopLearning</h4>
-<h4> #LifelongLearning</h4>
-<br>
 
 <!-- ****************************************** Tools & Languages ******************************************** -->
 
