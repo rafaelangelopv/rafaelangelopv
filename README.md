@@ -1,25 +1,12 @@
-<!-- ****************************************** Bio ******************************************** -->
 <h2> Rafael Angelo Pinheiro do Vale </h2>
-<h4> Civil Engineer and Work Security 👷🏻👷🏻</h4>
-<h4> #NeverStopLearning</h4>
-<h4> #LifelongLearning</h4>
-<br>
-
-<!-- ****************************************** Stats ******************************************** -->
-
-<tr>
-    <td><p align="left"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=rafaelangelopv&show_icons=true&theme=dark" alt="Rafael Angelo's github stats" /></a></p>
-    </td>
-    </tr>
-    <td><p align="left"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelangelopv&layout=compact&show_icons=true&theme=dark" /></a></p>
-    </td>
+<h4> Engineer [Civil & Work Security]</h4>
 
 <!-- ****************************************** Tools & Languages ******************************************** -->
 
 <div>
   <!-- Linktree -->
   <a href = "https://linktr.ee/rafaelangelopv"><img src="
-  https://img.shields.io/badge/linktree-39E09B??style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  https://img.shields.io/badge/LinkTree-39E09B??style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <!-- Gmail -->
   <a href = "mailto:rafaelangelopv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000??style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- LinkedIn -->
