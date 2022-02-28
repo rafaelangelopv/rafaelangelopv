@@ -1,6 +1,21 @@
-<!-- ***************** Bio *********************** -->
-<h1>Rafael Vale<br>Engineer [Civil & Work Security]</h2>
-<!-- ************ Social ************** -->
+<!-- ****************************************** Bio ******************************************** -->
+<h2> Rafael Angelo Pinheiro do Vale </h2>
+<h4> Civil Engineer and Work Security 👷🏻👷🏻</h4>
+<h4> #NeverStopLearning</h4>
+<h4> #LifelongLearning</h4>
+<br>
+
+<!-- ****************************************** Stats ******************************************** -->
+
+<tr>
+    <td><p align="left"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=rafaelangelopv&show_icons=true&theme=dark" alt="Rafael Angelo's github stats" /></a></p>
+    </td>
+    </tr>
+    <td><p align="left"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelangelopv&layout=compact&show_icons=true&theme=dark" /></a></p>
+    </td>
+
+<!-- ****************************************** Tools & Languages ******************************************** -->
+
 <div>
   <!-- Linktree -->
   <a href = "https://linktr.ee/rafaelangelopv"><img src="
