@@ -1,8 +1,11 @@
 <h2> Rafael Angelo Pinheiro do Vale <br>Engineer [Civil & Work Security]</h2>
 <br>
-<img src="./assets/civil.png" width="60px"><img src="./assets/safe.png" width="60px"><img src="./assets/brigada.png" width="60px">
-<img src="./assets/altura.png" width="60px">
-
+<div>
+<img src="./assets/civil.png" width="60px"> &nbsp
+<img src="./assets/safe.png" width="60px"> &nbsp
+<img src="./assets/brigada.png" width="60px"> &nbsp
+<img src="./assets/altura.png" width="60px"> &nbsp
+</div>
 <br>
 <!-- ************ Tools & Languages ********************* -->
 <div>
